@@ -17,4 +17,4 @@ Participantes:
 * [Marianna Siqueira](http://twitter.com/mariounaum)
 
 
-![Foto Oficial do dia 24/02/2010](preview.jpg)
+![Foto Oficial do dia 24/02/2010](http://github.com/downloads/hugobr/DojoCampos/preview_2010_02_24.jpg)
