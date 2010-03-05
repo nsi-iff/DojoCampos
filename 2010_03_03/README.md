@@ -11,11 +11,11 @@ Dojo Campos [5]
 * [Hugo Lopes Tavares](http://twitter.com/hltbra)
 * [Rodrigo Manhães](http://twitter.com/rodrigomanhaes)
 * [Mario Jorge Valle](http:/twitter.com/mariojorgevalle)
-* [Priscilla](http://twitter.com/nirthaky)
 * [Wesleymberg](http://twitter.com/weslleymberg)
 * [Marianna Siqueira](http://twitter.com/mariounaum)
 * [Rebeca Motta](http://twitter.com/becamotta)
 * [Luiz Batista Almeida](http://twitter.com/lbalmeida)
+* Vanderson Mota
 
 
 **Retrospectiva:**
