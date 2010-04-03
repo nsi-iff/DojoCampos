@@ -21,7 +21,7 @@ Ao começar o dojo, tivemos uma pequena votação para escolher o problema. Acab
 * [Luiz Batista Almeida](http://twitter.com/lbalmeida)
 * [Gabriel Monnerat](http://twitter.com/gmonnerat)
 * [Eduardo Braga](http://twitter.com/eBragaParah)
-* [Douglas Camata](http://twitter.com/douglas_camata)
+* [Douglas Camata](http://twitter.com/douglascamata)
 * [Thawan Fidelis](http://twitter.com/Thawan_Fidelis)
 * [Diego Manhães Pinheiro](http://twitter.com/dmpinheiro)
 * Lucas Carvalho
