@@ -1,0 +1,5 @@
+teste_unitario: unittest
+CasoDeTeste: TestCase
+descreva: def
+deve_ser: assert
+

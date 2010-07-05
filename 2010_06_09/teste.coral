@@ -1,0 +1,34 @@
+#-*- coding:utf-8 -*-
+
+importe teste_unitario
+de dojo importe PalavraPrima
+
+
+classe Teste_palavra_prima(teste_unitario.CasoDeTeste):
+    
+    descreva teste_palavra_a_eh_primo(este):
+        verificar_primo = PalavraPrima("a").eh_primo()
+        deve_ser verificar_primo == Verdadeiro
+
+    descreva teste_palavra_d_nao_eh_primo(este):
+        verificar_primo = PalavraPrima("d").eh_primo()
+        deve_ser verificar_primo == Falso
+
+    descreva teste_palavra_b_eh_primo(este):
+        verificar_primo = PalavraPrima("b").eh_primo()
+        deve_ser verificar_primo == Verdadeiro
+
+    descreva teste_palavra_z_nao_eh_primo(este):
+        verificar_primo = PalavraPrima("z").eh_primo()
+        deve_ser verificar_primo == Verdadeiro
+
+    descreva teste_palavra_cada_nao_eh_primo(este):
+        verificar_primo = PalavraPrima("cada").eh_primo()
+        deve_ser verificar_primo == Falso
+
+
+    
+    
+
+teste_unitario.main()
+

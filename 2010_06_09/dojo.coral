@@ -1,0 +1,23 @@
+alfabeto = 'abcdefghijlmnopqrstuvxz'
+
+classe PalavraPrima:
+    metodo __init__(este, palavra):
+        este.palavra = palavra
+        este.letras = dict([ (letra, i)
+                        para cada i, letra em
+                            enumerar(alfabeto,1)])
+        
+    metodo eh_primo(este):
+        valor = somar([este.letras[letra]
+                        para cada letra em este.palavra])
+        return este.valor_eh_primo(valor)
+
+
+    metodo valor_eh_primo(este, valor):
+        se valor == 1:
+            retorne Verdadeiro
+        para cada numero em range(2, valor):
+            se valor % numero == 0:
+                retorne Falso
+        retorne Verdadeiro
+       
