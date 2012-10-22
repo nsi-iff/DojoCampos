@@ -1,0 +1,12 @@
+Problema: Jokenpo
+(Também conhecido por Pedra,Papel, tesoura)
+
+- Pedra: perde para papel, ganha tesoura
+- Papel: perde para tesoura, ganha pedra
+- Tesoura: perde para pedra, ganha papel
+
+Explicação da resolução pós refatoração:
+Para qualquer que seja a jogada1 se for igual a jogada2 será empate.
+Se a jogada2 tive index -1 igual ao a jogada1, siguinifica que a próxima da lista portanto a jogada1 ganha,
+dado que as jogadas estão por ordem de vencedores.
+Caso nenhuma dessas perspectivas seja alcançada a jogada2 ganha.
